@@ -1,0 +1,15 @@
+{
+    "color": "yellow",
+    "date": "2026-09-29",
+    "debugInfo": "Setup failed - pipeline stopped before pattern deploy; no cluster was deployed.",
+    "infraProvider": "baremetal",
+    "jenkinsURL": "https://gitlab.cee.redhat.com/pkomarov/examples/-/pipelines/18060377",
+    "label": "rhoso-gitops on baremetal",
+    "message": "main",
+    "openshiftVersion": "",
+    "patternBranch": "main",
+    "patternRepo": "https://github.com/validatedpatterns-sandbox/rhoso-gitops",
+    "schemaVersion": 1,
+    "testID": "62285572",
+    "testSource": "Red Hat"
+}
