@@ -1,15 +1,15 @@
 {
-    "color": "green",
-    "date": "2026-09-28",
-    "debugInfo": "Passed - pattern deployed; control plane and data plane Synced+Healthy. | https://gitlab.cee.redhat.com/api/v4/projects/149224/jobs/62178562/artifacts/must-gather-62178562.tar.gz",
+    "color": "red",
+    "date": "2026-09-29",
+    "debugInfo": "Failed - deploy_vp_pattern failed (control plane / data plane did not reach Synced+Healthy); see must-gather. | https://gitlab.cee.redhat.com/api/v4/projects/149224/jobs/62288047/artifacts/must-gather-62288047.tar.gz",
     "infraProvider": "baremetal",
-    "jenkinsURL": "https://gitlab.cee.redhat.com/pkomarov/examples/-/pipelines/18028569",
+    "jenkinsURL": "https://gitlab.cee.redhat.com/pkomarov/examples/-/pipelines/18061083",
     "label": "rhoso-gitops on baremetal",
     "message": "main",
     "openshiftVersion": "4.18.7",
     "patternBranch": "main",
     "patternRepo": "https://github.com/validatedpatterns-sandbox/rhoso-gitops",
     "schemaVersion": 1,
-    "testID": "62178562",
+    "testID": "62288047",
     "testSource": "Red Hat"
 }
